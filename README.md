@@ -1,8 +1,8 @@
 # 🏛️ Monumenta (HeritageHub)
 
-Monumenta is a comprehensive, modern web application designed to help users explore, discover, and experience India's rich cultural heritage. From stunning UNESCO World Heritage sites to ancient temples and magnificent forts, Monumenta serves as a one-stop portal for heritage tourism.
+Welcome to **Monumenta** — your ultimate digital passport to India's breathtaking cultural legacy. Designed with a premium, buttery-smooth user interface, Monumenta invites you to journey through time. 
 
-![Monumenta Hero](frontend/public/vite.svg) <!-- Replace with actual screenshot of your hero section -->
+Whether you're exploring the majestic corridors of UNESCO World Heritage Sites, discovering hidden architectural marvels, or seamlessly booking digital tickets for your next adventure, Monumenta transforms heritage tourism into a stunning and immersive digital experience.
 
 ## ✨ Features
 
