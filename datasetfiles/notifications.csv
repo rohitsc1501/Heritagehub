@@ -1,0 +1,201 @@
+id,user_id,message,is_read,created_at
+1,1042,Reminder: upcoming visit,1,2026-05-24
+2,1096,New event near you,1,2026-07-13
+3,1122,Price drop alert,0,2026-06-21
+4,1018,Booking confirmed,1,2026-07-18
+5,1081,New event near you,0,2026-07-15
+6,1087,Price drop alert,1,2026-07-09
+7,1019,Booking confirmed,1,2026-06-11
+8,1123,Booking confirmed,1,2026-05-20
+9,1042,Reminder: upcoming visit,0,2026-07-16
+10,1025,New event near you,0,2026-07-07
+11,1104,New event near you,1,2026-06-30
+12,1060,Booking confirmed,0,2026-06-24
+13,1146,Reminder: upcoming visit,0,2026-07-16
+14,1092,Booking confirmed,1,2026-07-14
+15,1075,Reminder: upcoming visit,0,2026-07-13
+16,1006,Price drop alert,0,2026-06-09
+17,1074,Booking confirmed,1,2026-05-26
+18,1029,New event near you,1,2026-06-19
+19,1125,New event near you,0,2026-06-08
+20,1139,Reminder: upcoming visit,0,2026-06-26
+21,1097,New event near you,0,2026-06-21
+22,1011,New event near you,1,2026-06-20
+23,1067,Price drop alert,1,2026-06-13
+24,1015,Price drop alert,0,2026-07-14
+25,1088,Reminder: upcoming visit,0,2026-06-14
+26,1015,Reminder: upcoming visit,1,2026-06-15
+27,1121,Price drop alert,1,2026-06-30
+28,1020,Reminder: upcoming visit,0,2026-06-17
+29,1146,Price drop alert,0,2026-05-20
+30,1114,Price drop alert,0,2026-07-06
+31,1049,Price drop alert,0,2026-06-22
+32,1020,Reminder: upcoming visit,0,2026-05-28
+33,1037,New event near you,1,2026-05-22
+34,1017,Booking confirmed,1,2026-06-14
+35,1101,New event near you,1,2026-06-16
+36,1117,Booking confirmed,1,2026-07-12
+37,1106,Price drop alert,0,2026-06-13
+38,1149,Booking confirmed,0,2026-06-13
+39,1025,New event near you,1,2026-05-24
+40,1105,New event near you,1,2026-06-08
+41,1124,Reminder: upcoming visit,0,2026-07-08
+42,1070,Reminder: upcoming visit,0,2026-06-10
+43,1102,Booking confirmed,1,2026-05-24
+44,1084,Price drop alert,0,2026-06-02
+45,1121,New event near you,1,2026-07-18
+46,1086,New event near you,1,2026-07-02
+47,1125,Booking confirmed,0,2026-07-11
+48,1076,Reminder: upcoming visit,1,2026-07-02
+49,1106,Booking confirmed,0,2026-06-21
+50,1054,Reminder: upcoming visit,1,2026-06-01
+51,1132,New event near you,0,2026-06-17
+52,1040,Booking confirmed,1,2026-06-04
+53,1129,Reminder: upcoming visit,0,2026-05-31
+54,1134,Booking confirmed,0,2026-07-07
+55,1051,Booking confirmed,0,2026-07-17
+56,1116,Booking confirmed,1,2026-06-04
+57,1050,New event near you,1,2026-05-28
+58,1118,Reminder: upcoming visit,0,2026-06-06
+59,1007,Price drop alert,1,2026-06-18
+60,1114,Price drop alert,1,2026-06-12
+61,1141,New event near you,1,2026-07-09
+62,1066,Booking confirmed,1,2026-07-18
+63,1098,Booking confirmed,0,2026-05-26
+64,1146,Price drop alert,0,2026-06-08
+65,1057,Price drop alert,1,2026-06-08
+66,1104,Booking confirmed,0,2026-06-19
+67,1033,Price drop alert,0,2026-07-05
+68,1064,New event near you,1,2026-06-22
+69,1096,New event near you,1,2026-07-03
+70,1055,Reminder: upcoming visit,1,2026-06-06
+71,1133,Reminder: upcoming visit,0,2026-07-19
+72,1130,New event near you,1,2026-06-30
+73,1027,Reminder: upcoming visit,0,2026-06-28
+74,1070,New event near you,1,2026-07-03
+75,1076,Price drop alert,0,2026-06-16
+76,1061,Booking confirmed,1,2026-06-07
+77,1081,Price drop alert,0,2026-06-08
+78,1127,New event near you,1,2026-05-22
+79,1107,Reminder: upcoming visit,1,2026-06-02
+80,1009,Price drop alert,1,2026-06-03
+81,1056,Reminder: upcoming visit,1,2026-06-17
+82,1076,Price drop alert,0,2026-07-01
+83,1024,Reminder: upcoming visit,0,2026-06-02
+84,1066,Price drop alert,1,2026-06-08
+85,1022,Price drop alert,1,2026-07-05
+86,1078,Reminder: upcoming visit,1,2026-06-26
+87,1066,New event near you,1,2026-05-26
+88,1030,Reminder: upcoming visit,0,2026-05-25
+89,1149,Booking confirmed,1,2026-05-24
+90,1049,Booking confirmed,1,2026-06-16
+91,1076,Reminder: upcoming visit,0,2026-05-25
+92,1038,Price drop alert,0,2026-06-28
+93,1104,Reminder: upcoming visit,0,2026-06-29
+94,1046,Booking confirmed,1,2026-06-28
+95,1045,New event near you,0,2026-07-19
+96,1115,New event near you,0,2026-06-01
+97,1043,Price drop alert,1,2026-05-30
+98,1022,Price drop alert,1,2026-06-09
+99,1109,Reminder: upcoming visit,1,2026-06-19
+100,1098,Booking confirmed,0,2026-06-15
+101,1051,New event near you,0,2026-05-23
+102,1082,Price drop alert,0,2026-06-06
+103,1001,Price drop alert,0,2026-06-05
+104,1088,New event near you,0,2026-07-13
+105,1098,New event near you,0,2026-07-15
+106,1011,New event near you,1,2026-06-20
+107,1133,New event near you,1,2026-05-24
+108,1034,New event near you,1,2026-06-27
+109,1048,Price drop alert,1,2026-07-18
+110,1058,Price drop alert,0,2026-07-06
+111,1005,Price drop alert,0,2026-06-26
+112,1009,Reminder: upcoming visit,1,2026-05-31
+113,1136,Booking confirmed,0,2026-06-07
+114,1027,Booking confirmed,0,2026-06-05
+115,1029,Reminder: upcoming visit,1,2026-06-25
+116,1031,New event near you,1,2026-06-05
+117,1039,Price drop alert,0,2026-06-30
+118,1107,Booking confirmed,1,2026-06-10
+119,1035,Reminder: upcoming visit,0,2026-06-17
+120,1030,New event near you,0,2026-05-30
+121,1027,Reminder: upcoming visit,0,2026-06-11
+122,1051,New event near you,0,2026-06-27
+123,1104,New event near you,0,2026-07-17
+124,1140,Reminder: upcoming visit,0,2026-06-05
+125,1123,New event near you,0,2026-07-19
+126,1003,Booking confirmed,0,2026-05-27
+127,1146,Reminder: upcoming visit,0,2026-05-20
+128,1023,Booking confirmed,0,2026-05-23
+129,1065,Price drop alert,1,2026-07-01
+130,1067,Reminder: upcoming visit,0,2026-07-13
+131,1044,Booking confirmed,1,2026-06-26
+132,1080,Reminder: upcoming visit,0,2026-07-13
+133,1011,Booking confirmed,0,2026-06-07
+134,1043,New event near you,1,2026-05-23
+135,1112,New event near you,0,2026-06-26
+136,1087,Price drop alert,0,2026-06-24
+137,1102,Reminder: upcoming visit,1,2026-05-27
+138,1098,Reminder: upcoming visit,1,2026-06-08
+139,1042,Booking confirmed,0,2026-06-05
+140,1015,Price drop alert,0,2026-06-23
+141,1123,Reminder: upcoming visit,0,2026-06-10
+142,1097,New event near you,0,2026-05-25
+143,1033,Reminder: upcoming visit,1,2026-07-12
+144,1105,Reminder: upcoming visit,0,2026-07-15
+145,1066,New event near you,0,2026-06-04
+146,1134,Price drop alert,1,2026-06-16
+147,1133,Booking confirmed,1,2026-06-07
+148,1063,Reminder: upcoming visit,1,2026-06-07
+149,1098,Price drop alert,0,2026-07-19
+150,1040,Reminder: upcoming visit,1,2026-05-25
+151,1042,Booking confirmed,1,2026-06-29
+152,1061,New event near you,1,2026-07-16
+153,1129,Price drop alert,1,2026-06-24
+154,1060,Booking confirmed,1,2026-06-21
+155,1146,Reminder: upcoming visit,0,2026-05-26
+156,1127,Reminder: upcoming visit,1,2026-07-12
+157,1127,Booking confirmed,0,2026-06-24
+158,1105,Booking confirmed,0,2026-05-28
+159,1023,New event near you,0,2026-06-08
+160,1116,New event near you,1,2026-05-28
+161,1013,Price drop alert,1,2026-06-28
+162,1143,Reminder: upcoming visit,1,2026-06-04
+163,1115,Booking confirmed,0,2026-06-01
+164,1056,Booking confirmed,1,2026-06-27
+165,1074,New event near you,0,2026-07-17
+166,1042,Reminder: upcoming visit,0,2026-05-28
+167,1104,Booking confirmed,1,2026-06-10
+168,1050,Price drop alert,0,2026-05-21
+169,1100,Price drop alert,1,2026-05-28
+170,1048,New event near you,0,2026-06-01
+171,1106,Booking confirmed,0,2026-05-31
+172,1115,Reminder: upcoming visit,0,2026-06-18
+173,1001,Booking confirmed,1,2026-05-27
+174,1149,Reminder: upcoming visit,0,2026-06-05
+175,1148,Price drop alert,0,2026-07-13
+176,1099,New event near you,1,2026-06-23
+177,1063,New event near you,1,2026-06-28
+178,1075,Reminder: upcoming visit,0,2026-07-11
+179,1105,New event near you,1,2026-06-04
+180,1141,Price drop alert,0,2026-07-06
+181,1074,New event near you,0,2026-06-04
+182,1045,New event near you,0,2026-06-01
+183,1090,Reminder: upcoming visit,1,2026-06-06
+184,1136,New event near you,1,2026-05-29
+185,1003,Booking confirmed,0,2026-06-25
+186,1037,Booking confirmed,0,2026-07-07
+187,1068,Price drop alert,1,2026-06-06
+188,1064,Price drop alert,0,2026-06-05
+189,1075,Price drop alert,0,2026-06-27
+190,1115,Booking confirmed,0,2026-06-02
+191,1143,Reminder: upcoming visit,0,2026-06-17
+192,1073,Booking confirmed,1,2026-06-25
+193,1106,New event near you,0,2026-07-19
+194,1064,Price drop alert,1,2026-05-27
+195,1057,New event near you,0,2026-05-31
+196,1049,New event near you,1,2026-07-08
+197,1019,Price drop alert,0,2026-06-02
+198,1131,Booking confirmed,1,2026-07-17
+199,1109,New event near you,1,2026-07-11
+200,1041,New event near you,0,2026-06-28

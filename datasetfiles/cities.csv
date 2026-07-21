@@ -1,0 +1,99 @@
+id,district_id,city_name
+1,1,Lepakshi
+2,2,Visakhapatnam
+3,3,Nandyal
+4,4,Tirupati
+5,5,Amaravati
+6,6,Tawang
+7,7,Bomdila
+8,8,Itanagar
+9,9,Guwahati
+10,10,Kohora
+11,11,Sivasagar
+12,12,Bodh Gaya
+13,13,Nalanda
+14,14,Patna
+15,15,Jagdalpur
+16,16,Ratanpur
+17,17,Kanger Valley
+18,18,Old Goa
+19,18,Calangute
+20,19,Bhuj
+21,20,Patan
+22,21,Sasan Gir
+23,22,Kevadia
+24,23,Junagadh
+25,24,Kurukshetra
+26,25,Panipat
+27,26,Surajkund
+28,27,Dharamshala
+29,28,Shimla
+30,29,Manali
+31,30,Kalpa
+32,31,Ranchi
+33,32,Parasnath
+34,33,Chaibasa
+35,34,Hampi
+36,35,Mysuru
+37,36,Pattadakal
+38,37,Bengaluru
+39,38,Kodagu
+40,39,Alappuzha
+41,40,Munnar
+42,41,Thiruvananthapuram
+43,42,Fort Kochi
+44,43,Thekkady
+45,44,Khajuraho
+46,45,Sanchi
+47,46,Bhimbetka
+48,47,Bandhavgarh
+49,48,Gwalior
+50,49,Ellora
+51,49,Ajanta
+52,50,Raigad
+53,51,Mumbai
+54,52,Loktak
+55,53,Imphal
+56,54,Cherrapunji
+57,55,Mawlynnong
+58,56,Aizawl
+59,57,Champhai
+60,58,Kohima
+61,58,Khonoma
+62,59,Puri
+63,59,Konark
+64,60,Chilika
+65,61,Amritsar
+66,62,Jaipur
+67,63,Udaipur
+68,64,Jodhpur
+69,65,Jaisalmer
+70,66,Gangtok
+71,67,Yumthang
+72,68,Thanjavur
+73,69,Mahabalipuram
+74,70,Ooty
+75,71,Madurai
+76,72,Hyderabad
+77,73,Udaipur
+78,74,Agartala
+79,75,Agra
+80,76,Varanasi
+81,75,Fatehpur Sikri
+82,77,Lucknow
+83,78,Valley of Flowers
+84,79,Haridwar
+85,80,Nainital
+86,81,Kolkata
+87,82,Darjeeling
+88,83,Sundarbans
+89,84,New Delhi
+90,85,Srinagar
+91,86,Leh
+92,86,Thiksey
+93,87,Puducherry
+94,88,Chandigarh
+95,89,Port Blair
+96,89,Havelock Island
+97,90,Kavaratti
+98,91,Diu

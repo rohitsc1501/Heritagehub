@@ -1,0 +1,122 @@
+.admin-layout {
+    display: flex;
+    min-height: 100vh;
+    background-color: var(--color-bg-secondary);
+}
+
+.admin-sidebar {
+    width: var(--sidebar-width);
+    background: var(--color-surface);
+    border-right: 1px solid var(--color-border);
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    z-index: 10;
+}
+
+.admin-brand {
+    padding: var(--space-xl) var(--space-lg);
+    border-bottom: 1px solid var(--color-border);
+}
+
+.admin-nav {
+    padding: var(--space-lg);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    flex: 1;
+}
+
+.nav-label {
+    font-size: var(--fs-xs);
+    text-transform: uppercase;
+    font-weight: var(--fw-bold);
+    color: var(--color-text-tertiary);
+    margin-bottom: var(--space-sm);
+    letter-spacing: 1px;
+}
+
+.admin-nav-link {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: var(--space-sm) var(--space-md);
+    border-radius: var(--radius-md);
+    color: var(--color-text-secondary);
+    font-weight: var(--fw-medium);
+    transition: all var(--transition-fast);
+}
+
+.admin-nav-link:hover {
+    background: var(--color-bg-secondary);
+    color: var(--color-primary);
+}
+
+.admin-nav-link.active {
+    background: var(--color-primary-50);
+    color: var(--color-primary);
+}
+
+.admin-main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+.admin-header {
+    height: var(--navbar-height);
+    background: var(--color-surface);
+    border-bottom: 1px solid var(--color-border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 var(--space-xl);
+    position: sticky;
+    top: 0;
+    z-index: 5;
+}
+
+.page-title {
+    font-family: var(--font-ui);
+    font-size: var(--fs-lg);
+    margin: 0;
+}
+
+.admin-header-actions {
+    display: flex;
+    align-items: center;
+    gap: var(--space-lg);
+}
+
+.admin-user-menu {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+    border-left: 1px solid var(--color-border);
+    padding-left: var(--space-md);
+}
+
+.user-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.user-role {
+    font-size: var(--fs-xs);
+    color: var(--color-accent-dark);
+}
+
+.admin-content {
+    padding: var(--space-xl);
+    flex: 1;
+}
+
+@media (max-width: 768px) {
+    .admin-sidebar {
+        display: none;
+    }
+}

@@ -1,0 +1,151 @@
+.place-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--color-surface);
+    border-radius: var(--radius-xl);
+    border: 1px solid var(--color-border);
+    overflow: hidden;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: all var(--transition-base);
+    box-shadow: var(--shadow-sm);
+    height: 100%;
+}
+
+.place-card:hover {
+    transform: translateY(-6px);
+    box-shadow: var(--shadow-card-hover);
+    border-color: var(--color-primary-200);
+}
+
+.place-card-image {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4/3;
+    overflow: hidden;
+    background: var(--color-bg-secondary);
+}
+
+.place-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform var(--transition-slow);
+}
+
+.place-card:hover .place-card-image img {
+    transform: scale(1.05);
+}
+
+.place-badges {
+    position: absolute;
+    top: var(--space-sm);
+    left: var(--space-sm);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    z-index: 2;
+}
+
+.wishlist-btn {
+    position: absolute;
+    top: var(--space-sm);
+    right: var(--space-sm);
+    background: transparent;
+    border: none;
+    padding: 4px;
+    z-index: 2;
+    cursor: pointer;
+    transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.wishlist-btn:hover {
+    transform: scale(1.15);
+}
+
+.wishlist-btn svg {
+    width: 24px;
+    height: 24px;
+    fill: rgba(0, 0, 0, 0.5);
+    stroke: white;
+    stroke-width: 2px;
+    transition: all 0.2s;
+}
+
+.wishlist-btn.active svg {
+    fill: #ff385c;
+    stroke: #ff385c;
+}
+
+.place-card-content {
+    padding: var(--space-md);
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.place-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-xs);
+}
+
+.place-name {
+    font-size: var(--fs-md);
+    font-weight: var(--fw-bold);
+    line-height: var(--lh-tight);
+    margin: 0;
+    color: var(--color-text);
+}
+
+.place-rating {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: var(--fs-sm);
+    font-weight: var(--fw-medium);
+}
+
+.place-rating .star {
+    color: var(--color-text);
+}
+
+.place-location {
+    font-size: var(--fs-sm);
+    color: var(--color-text-secondary);
+    margin-bottom: 2px;
+}
+
+.place-category {
+    font-size: var(--fs-xs);
+    color: var(--color-text-tertiary);
+    margin-bottom: var(--space-md);
+}
+
+.place-card-footer {
+    margin-top: auto;
+    padding-top: var(--space-sm);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.place-price {
+    font-size: var(--fs-sm);
+}
+
+.price-val {
+    font-weight: var(--fw-bold);
+    color: var(--color-text);
+}
+
+.price-label {
+    color: var(--color-text-secondary);
+}
+
+.price-free {
+    font-weight: var(--fw-bold);
+    color: var(--color-success);
+}

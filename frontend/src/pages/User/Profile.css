@@ -1,0 +1,21 @@
+.profile-grid {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: var(--space-xl);
+}
+
+.profile-grid .card {
+    padding: var(--space-xl);
+}
+
+.auth-alert.success {
+    background-color: var(--color-success-bg);
+    color: var(--color-success);
+    border: 1px solid rgba(45, 106, 79, 0.2);
+}
+
+@media (max-width: 992px) {
+    .profile-grid {
+        grid-template-columns: 1fr;
+    }
+}

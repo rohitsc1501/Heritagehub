@@ -1,0 +1,92 @@
+id,state_id,district_name
+1,1,Anantapur
+2,1,Visakhapatnam
+3,1,Kurnool
+4,1,Chittoor
+5,1,Guntur
+6,2,Tawang
+7,2,West Kameng
+8,2,Papum Pare
+9,3,Kamrup Metropolitan
+10,3,Golaghat/Nagaon
+11,3,Sivasagar
+12,4,Gaya
+13,4,Nalanda
+14,4,Patna
+15,5,Bastar
+16,5,Bilaspur
+17,5,Kanker
+18,6,North Goa
+19,7,Kutch
+20,7,Patan
+21,7,Gir Somnath
+22,7,Kevadia
+23,7,Junagadh
+24,8,Kurukshetra
+25,8,Panipat
+26,8,Faridabad
+27,9,Kangra
+28,9,Shimla
+29,9,Kullu
+30,9,Kinnaur
+31,10,Ranchi
+32,10,Giridih
+33,10,West Singhbhum
+34,11,Hampi/Vijayanagara
+35,11,Mysuru
+36,11,Bagalkot
+37,11,Bengaluru Urban
+38,11,Kodagu
+39,12,Alappuzha
+40,12,Idukki
+41,12,Thiruvananthapuram
+42,12,Kochi
+43,12,Periyar
+44,13,Chhatarpur
+45,13,Raisen
+46,13,Bhopal
+47,13,Umaria
+48,13,Gwalior
+49,14,Aurangabad
+50,14,Raigad
+51,14,Mumbai City
+52,15,Bishnupur
+53,15,Imphal West
+54,16,East Khasi Hills
+55,16,West Jaintia Hills
+56,17,Aizawl
+57,17,Champhai
+58,18,Kohima
+59,19,Puri
+60,19,Puri/Ganjam
+61,20,Amritsar
+62,21,Jaipur
+63,21,Udaipur
+64,21,Jodhpur
+65,21,Jaisalmer
+66,22,East Sikkim
+67,22,North Sikkim
+68,23,Thanjavur
+69,23,Kanchipuram
+70,23,Nilgiris
+71,23,Madurai
+72,24,Hyderabad
+73,25,Gomati
+74,25,West Tripura
+75,26,Agra
+76,26,Varanasi
+77,26,Lucknow
+78,27,Chamoli
+79,27,Haridwar
+80,27,Nainital
+81,28,Kolkata
+82,28,Darjeeling
+83,28,South 24 Parganas
+84,29,New Delhi
+85,30,Srinagar
+86,31,Leh
+87,32,Puducherry
+88,33,Chandigarh
+89,34,South Andaman
+90,35,Lakshadweep
+91,36,Diu

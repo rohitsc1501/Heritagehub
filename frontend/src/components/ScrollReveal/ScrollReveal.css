@@ -1,0 +1,4 @@
+.scroll-reveal {
+    width: 100%;
+    will-change: opacity, transform;
+}

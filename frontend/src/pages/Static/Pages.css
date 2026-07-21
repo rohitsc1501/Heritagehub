@@ -1,0 +1,121 @@
+.page-header {
+    margin-bottom: var(--space-3xl);
+}
+
+.about-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-3xl);
+    align-items: center;
+}
+
+.about-image {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    padding: 0;
+}
+
+.about-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.about-text h2 {
+    font-size: var(--fs-xl);
+    margin-bottom: var(--space-md);
+    color: var(--color-text);
+}
+
+.about-text p {
+    color: var(--color-text-secondary);
+    line-height: var(--lh-relaxed);
+    font-size: 1.05rem;
+}
+
+.stats-row {
+    display: flex;
+    gap: var(--space-2xl);
+    padding-top: var(--space-lg);
+    border-top: 1px solid var(--color-border);
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.stat-num {
+    font-size: var(--fs-2xl);
+    font-weight: var(--fw-bold);
+    color: var(--color-primary);
+    font-family: var(--font-ui);
+}
+
+.stat-desc {
+    color: var(--color-text-secondary);
+    font-size: var(--fs-sm);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Contact Styles */
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: var(--space-2xl);
+}
+
+.contact-info, .contact-form {
+    padding: var(--space-2xl);
+}
+
+.contact-info h3, .contact-form h3 {
+    font-size: var(--fs-xl);
+    margin-bottom: var(--space-xs);
+}
+
+.info-item {
+    display: flex;
+    gap: var(--space-md);
+    margin-bottom: var(--space-lg);
+}
+
+.info-item .icon {
+    font-size: 1.5rem;
+    background: var(--color-primary-50);
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-full);
+}
+
+.info-item strong {
+    display: block;
+    color: var(--color-text);
+    margin-bottom: 4px;
+}
+
+.info-item p {
+    color: var(--color-text-secondary);
+    margin: 0;
+}
+
+textarea.input-field {
+    resize: vertical;
+    min-height: 120px;
+}
+
+@media (max-width: 768px) {
+    .about-content, .contact-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .stats-row {
+        flex-direction: column;
+        gap: var(--space-md);
+    }
+}
