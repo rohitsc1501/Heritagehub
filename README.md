@@ -17,6 +17,7 @@ Monumenta is a comprehensive, modern web application designed to help users expl
 ## 🛠️ Technology Stack
 
 **Frontend:**
+- JavaScript (ES6+)
 - React 19 (built with Vite)
 - React Router (Client-side routing)
 - Leaflet & React-Leaflet (Interactive Maps)
@@ -24,6 +25,7 @@ Monumenta is a comprehensive, modern web application designed to help users expl
 - Vanilla CSS (Custom design system, animations, and glassmorphism)
 
 **Backend:**
+- Python 3.10+
 - Django 5.x
 - Django Rest Framework (DRF)
 - SQLite (Default) / PostgreSQL (Supported)
